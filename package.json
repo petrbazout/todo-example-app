@@ -1,5 +1,5 @@
 {
-  "name": "todo-example-app",
+  "name": "todo-example-app-backend",
   "version": "0.0.0",
   "description": "Todo example app written in node and typescript",
   "devDependencies": {
